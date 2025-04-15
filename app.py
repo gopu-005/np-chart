@@ -7,8 +7,8 @@ st.set_page_config(page_title="np-Chart Generator", layout="centered", page_icon
 # Title and Description
 st.title("📊 Responsive np-Chart Generator")
 st.markdown(
-    "Monitor your process by tracking the **number of defective items** per sample. "
-    "This np-Chart automatically calculates **control limits** and highlights any out-of-control points."
+    "Monitor your process by tracking the **Number of Defective Items** per sample. "
+    "This np-Chart automatically calculates **Control Limits** and highlights any out-of-control points."
 )
 
 # Input Form
