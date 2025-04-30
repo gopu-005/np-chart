@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="np-Chart Generator", layout="centered", page_icon="📊")
 
 # Title
-st.title("📊 Responsive np-Chart Generator")
+st.title("📊 np-Chart Generator")
 st.markdown("Track the number of defectives per sample using an **np-Chart** and view full solution steps.")
 
 # Input Form
